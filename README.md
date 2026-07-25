@@ -14,10 +14,10 @@
 
 <!-- ══════════════════════════ SOCIAL BADGES ══════════════════════════ -->
 
-<a href="https://your-portfolio-url.vercel.app">
+<a href="https://portfolio-chi-taupe-76.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-Visit-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/venkatesh-m-3b88b21b1">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:venkatesh@instrive.in">
@@ -199,7 +199,7 @@ I'm always open to interesting conversations, collaboration on React projects, a
 <a href="mailto:venkatesh@instrive.in">
   <img src="https://img.shields.io/badge/Email-venkatesh%40instrive.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/venkatesh-m-3b88b21b1">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
