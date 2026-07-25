@@ -197,7 +197,7 @@ const venkatesh = {
 I'm always open to interesting conversations, collaboration on React projects, and new opportunities.
 
 <a href="mailto:amvenky97@gmail.com">
-  <img src="https://img.shields.io/badge/Email-venkatesh%40instrive.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-amvenky97%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/venkatesh-m-3b88b21b1">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
